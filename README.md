@@ -1,3 +1,12 @@
 # SHAPEPAPER
 Idea&amp;Survey
 http://delivery.acm.org/10.1145/3150000/3143559/a2-sturdee.pdf?ip=175.159.121.8&id=3143559&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2EFC30B8D6EF32B758%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1545373843_dc1f72ac5de113ba26946ee58f150687     PaperFold: Foldable Smartphone Shows Shape-Shifting Future for Google Maps 
+
+
+http://delivery.acm.org/10.1145/3150000/3143559/a2-sturdee.pdf?ip=175.159.121.8&id=3143559&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2EFC30B8D6EF32B758%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1545373843_dc1f72ac5de113ba26946ee58f150687   Analysis and Classification of Shape-Changing Interfaces for Design and Application-based 
+Research
+  
+  
+http://delivery.acm.org/10.1145/2560000/2557391/p1713-qi.pdf?ip=175.159.121.8&id=2557391&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2EFC30B8D6EF32B758%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1545379332_30b439aaef3f1da806bc176ca3f096b9
+
+http://dl.acm.org/citation.cfm?doid=2468356.2468831  Mark it up 
